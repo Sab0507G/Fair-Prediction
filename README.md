@@ -22,7 +22,12 @@ This project uses custom feature engineering and ensemble models to provide tran
 - Trained & tested on sample TIARO fleet dataset
 
 ##  How to Run
-
-```bash
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run app.py 
+
+ [View Streamlit App PDF](./Streamlit.pdf)
+
+
+
+
+
