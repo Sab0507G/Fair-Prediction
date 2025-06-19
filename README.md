@@ -26,6 +26,7 @@ pip install -r requirements.txt
 streamlit run app.py 
 
  [View Streamlit App PDF](./Streamlit.pdf)
+ [Streamlit App Example – PDF Demo](./Streamlit%201.pdf)
 
 
 
